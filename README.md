@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/santhosh-103/leetcode_solved/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [3830-find-closest-person](https://github.com/santhosh-103/leetcode_solved/tree/master/3830-find-closest-person) |
 ## Array
 |  |
@@ -33,4 +34,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/santhosh-103/leetcode_solved/tree/master/0004-median-of-two-sorted-arrays) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/santhosh-103/leetcode_solved/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->
