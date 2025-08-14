@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/santhosh-103/leetcode_solved/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/santhosh-103/leetcode_solved/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2812-find-the-maximum-achievable-number](https://github.com/santhosh-103/leetcode_solved/tree/master/2812-find-the-maximum-achievable-number) |
+| [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/santhosh-103/leetcode_solved/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3830-find-closest-person](https://github.com/santhosh-103/leetcode_solved/tree/master/3830-find-closest-person) |
 ## Array
 |  |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/santhosh-103/leetcode_solved/tree/master/0004-median-of-two-sorted-arrays) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/santhosh-103/leetcode_solved/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/santhosh-103/leetcode_solved/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/santhosh-103/leetcode_solved/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Hash Table
 |  |
 | ------- |
