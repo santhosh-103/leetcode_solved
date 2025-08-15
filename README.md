@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3397-find-the-integer-added-to-array-i](https://github.com/santhosh-103/leetcode_solved/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/santhosh-103/leetcode_solved/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/santhosh-103/leetcode_solved/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/santhosh-103/leetcode_solved/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Hash Table
 |  |
 | ------- |
