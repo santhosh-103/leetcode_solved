@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-convert-1d-array-into-2d-array](https://github.com/santhosh-103/leetcode_solved/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2181-smallest-index-with-equal-value](https://github.com/santhosh-103/leetcode_solved/tree/master/2181-smallest-index-with-equal-value) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/santhosh-103/leetcode_solved/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2442-number-of-arithmetic-triplets](https://github.com/santhosh-103/leetcode_solved/tree/master/2442-number-of-arithmetic-triplets) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/santhosh-103/leetcode_solved/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2639-separate-the-digits-in-an-array](https://github.com/santhosh-103/leetcode_solved/tree/master/2639-separate-the-digits-in-an-array) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/santhosh-103/leetcode_solved/tree/master/2767-maximum-sum-with-exactly-k-elements) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/santhosh-103/leetcode_solved/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/santhosh-103/leetcode_solved/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2442-number-of-arithmetic-triplets](https://github.com/santhosh-103/leetcode_solved/tree/master/2442-number-of-arithmetic-triplets) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/santhosh-103/leetcode_solved/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/santhosh-103/leetcode_solved/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## String
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/santhosh-103/leetcode_solved/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2442-number-of-arithmetic-triplets](https://github.com/santhosh-103/leetcode_solved/tree/master/2442-number-of-arithmetic-triplets) |
 ## Simulation
 |  |
 | ------- |
@@ -96,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2442-number-of-arithmetic-triplets](https://github.com/santhosh-103/leetcode_solved/tree/master/2442-number-of-arithmetic-triplets) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/santhosh-103/leetcode_solved/tree/master/2844-sum-of-squares-of-special-elements) |
 ## Sorting
 |  |
