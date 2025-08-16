@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/santhosh-103/leetcode_solved/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1078-remove-outermost-parentheses](https://github.com/santhosh-103/leetcode_solved/tree/master/1078-remove-outermost-parentheses) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/santhosh-103/leetcode_solved/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/santhosh-103/leetcode_solved/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/santhosh-103/leetcode_solved/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3636-check-balanced-string](https://github.com/santhosh-103/leetcode_solved/tree/master/3636-check-balanced-string) |
 ## Sliding Window
