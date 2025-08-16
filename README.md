@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/santhosh-103/leetcode_solved/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/santhosh-103/leetcode_solved/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/santhosh-103/leetcode_solved/tree/master/0342-power-of-four) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/santhosh-103/leetcode_solved/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/santhosh-103/leetcode_solved/tree/master/0258-add-digits) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/santhosh-103/leetcode_solved/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2639-separate-the-digits-in-an-array](https://github.com/santhosh-103/leetcode_solved/tree/master/2639-separate-the-digits-in-an-array) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/santhosh-103/leetcode_solved/tree/master/2847-find-maximum-number-of-string-pairs) |
@@ -113,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/santhosh-103/leetcode_solved/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/santhosh-103/leetcode_solved/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
