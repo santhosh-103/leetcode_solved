@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/santhosh-103/leetcode_solved/tree/master/0004-median-of-two-sorted-arrays) |
 | [0041-first-missing-positive](https://github.com/santhosh-103/leetcode_solved/tree/master/0041-first-missing-positive) |
 | [0287-find-the-duplicate-number](https://github.com/santhosh-103/leetcode_solved/tree/master/0287-find-the-duplicate-number) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/santhosh-103/leetcode_solved/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/santhosh-103/leetcode_solved/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/santhosh-103/leetcode_solved/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/santhosh-103/leetcode_solved/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/santhosh-103/leetcode_solved/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/santhosh-103/leetcode_solved/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2836-neither-minimum-nor-maximum](https://github.com/santhosh-103/leetcode_solved/tree/master/2836-neither-minimum-nor-maximum) |
 ## Matrix
@@ -140,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/santhosh-103/leetcode_solved/tree/master/0258-add-digits) |
 | [1585-the-kth-factor-of-n](https://github.com/santhosh-103/leetcode_solved/tree/master/1585-the-kth-factor-of-n) |
 | [2083-three-divisors](https://github.com/santhosh-103/leetcode_solved/tree/master/2083-three-divisors) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/santhosh-103/leetcode_solved/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
