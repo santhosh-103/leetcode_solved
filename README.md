@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2844-sum-of-squares-of-special-elements](https://github.com/santhosh-103/leetcode_solved/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/santhosh-103/leetcode_solved/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/santhosh-103/leetcode_solved/tree/master/3397-find-the-integer-added-to-array-i) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/santhosh-103/leetcode_solved/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/santhosh-103/leetcode_solved/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/santhosh-103/leetcode_solved/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/santhosh-103/leetcode_solved/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/santhosh-103/leetcode_solved/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/santhosh-103/leetcode_solved/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2442-number-of-arithmetic-triplets](https://github.com/santhosh-103/leetcode_solved/tree/master/2442-number-of-arithmetic-triplets) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/santhosh-103/leetcode_solved/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Simulation
 |  |
 | ------- |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/santhosh-103/leetcode_solved/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/santhosh-103/leetcode_solved/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2836-neither-minimum-nor-maximum](https://github.com/santhosh-103/leetcode_solved/tree/master/2836-neither-minimum-nor-maximum) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/santhosh-103/leetcode_solved/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Matrix
 |  |
 | ------- |
