@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/santhosh-103/leetcode_solved/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/santhosh-103/leetcode_solved/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1078-remove-outermost-parentheses](https://github.com/santhosh-103/leetcode_solved/tree/master/1078-remove-outermost-parentheses) |
 | [1944-truncate-sentence](https://github.com/santhosh-103/leetcode_solved/tree/master/1944-truncate-sentence) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/santhosh-103/leetcode_solved/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/santhosh-103/leetcode_solved/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/santhosh-103/leetcode_solved/tree/master/0287-find-the-duplicate-number) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/santhosh-103/leetcode_solved/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/santhosh-103/leetcode_solved/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/santhosh-103/leetcode_solved/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/santhosh-103/leetcode_solved/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Geometry
 |  |
