@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/santhosh-103/leetcode_solved/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/santhosh-103/leetcode_solved/tree/master/0371-sum-of-two-integers) |
 | [1086-divisor-game](https://github.com/santhosh-103/leetcode_solved/tree/master/1086-divisor-game) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/santhosh-103/leetcode_solved/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/santhosh-103/leetcode_solved/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1448-maximum-69-number](https://github.com/santhosh-103/leetcode_solved/tree/master/1448-maximum-69-number) |
 | [1585-the-kth-factor-of-n](https://github.com/santhosh-103/leetcode_solved/tree/master/1585-the-kth-factor-of-n) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/santhosh-103/leetcode_solved/tree/master/0074-search-a-2d-matrix) |
 | [0215-kth-largest-element-in-an-array](https://github.com/santhosh-103/leetcode_solved/tree/master/0215-kth-largest-element-in-an-array) |
 | [0287-find-the-duplicate-number](https://github.com/santhosh-103/leetcode_solved/tree/master/0287-find-the-duplicate-number) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/santhosh-103/leetcode_solved/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/santhosh-103/leetcode_solved/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1646-kth-missing-positive-number](https://github.com/santhosh-103/leetcode_solved/tree/master/1646-kth-missing-positive-number) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/santhosh-103/leetcode_solved/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
