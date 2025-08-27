@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/santhosh-103/leetcode_solved/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/santhosh-103/leetcode_solved/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/santhosh-103/leetcode_solved/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1833-find-the-highest-altitude](https://github.com/santhosh-103/leetcode_solved/tree/master/1833-find-the-highest-altitude) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/santhosh-103/leetcode_solved/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [1944-truncate-sentence](https://github.com/santhosh-103/leetcode_solved/tree/master/1944-truncate-sentence) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/santhosh-103/leetcode_solved/tree/master/1950-sign-of-the-product-of-an-array) |
@@ -230,5 +231,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1833-find-the-highest-altitude](https://github.com/santhosh-103/leetcode_solved/tree/master/1833-find-the-highest-altitude) |
 | [2714-left-and-right-sum-differences](https://github.com/santhosh-103/leetcode_solved/tree/master/2714-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
