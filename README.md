@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/santhosh-103/leetcode_solved/tree/master/0287-find-the-duplicate-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/santhosh-103/leetcode_solved/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/santhosh-103/leetcode_solved/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1580-shuffle-the-array](https://github.com/santhosh-103/leetcode_solved/tree/master/1580-shuffle-the-array) |
 | [1646-kth-missing-positive-number](https://github.com/santhosh-103/leetcode_solved/tree/master/1646-kth-missing-positive-number) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/santhosh-103/leetcode_solved/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/santhosh-103/leetcode_solved/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
