@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2556-convert-the-temperature](https://github.com/santhosh-103/leetcode_solved/tree/master/2556-convert-the-temperature) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/santhosh-103/leetcode_solved/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [2812-find-the-maximum-achievable-number](https://github.com/santhosh-103/leetcode_solved/tree/master/2812-find-the-maximum-achievable-number) |
+| [2998-count-symmetric-integers](https://github.com/santhosh-103/leetcode_solved/tree/master/2998-count-symmetric-integers) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/santhosh-103/leetcode_solved/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/santhosh-103/leetcode_solved/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3830-find-closest-person](https://github.com/santhosh-103/leetcode_solved/tree/master/3830-find-closest-person) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2083-three-divisors](https://github.com/santhosh-103/leetcode_solved/tree/master/2083-three-divisors) |
 | [2442-number-of-arithmetic-triplets](https://github.com/santhosh-103/leetcode_solved/tree/master/2442-number-of-arithmetic-triplets) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/santhosh-103/leetcode_solved/tree/master/2844-sum-of-squares-of-special-elements) |
+| [2998-count-symmetric-integers](https://github.com/santhosh-103/leetcode_solved/tree/master/2998-count-symmetric-integers) |
 ## Sorting
 |  |
 | ------- |
