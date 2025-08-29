@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2083-three-divisors](https://github.com/santhosh-103/leetcode_solved/tree/master/2083-three-divisors) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/santhosh-103/leetcode_solved/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/santhosh-103/leetcode_solved/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/santhosh-103/leetcode_solved/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2556-convert-the-temperature](https://github.com/santhosh-103/leetcode_solved/tree/master/2556-convert-the-temperature) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/santhosh-103/leetcode_solved/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [2812-find-the-maximum-achievable-number](https://github.com/santhosh-103/leetcode_solved/tree/master/2812-find-the-maximum-achievable-number) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2292-counting-words-with-a-given-prefix](https://github.com/santhosh-103/leetcode_solved/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2442-number-of-arithmetic-triplets](https://github.com/santhosh-103/leetcode_solved/tree/master/2442-number-of-arithmetic-triplets) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/santhosh-103/leetcode_solved/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/santhosh-103/leetcode_solved/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2639-separate-the-digits-in-an-array](https://github.com/santhosh-103/leetcode_solved/tree/master/2639-separate-the-digits-in-an-array) |
 | [2714-left-and-right-sum-differences](https://github.com/santhosh-103/leetcode_solved/tree/master/2714-left-and-right-sum-differences) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/santhosh-103/leetcode_solved/tree/master/2767-maximum-sum-with-exactly-k-elements) |
