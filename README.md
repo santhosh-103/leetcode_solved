@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/santhosh-103/leetcode_solved/tree/master/0074-search-a-2d-matrix) |
 | [0215-kth-largest-element-in-an-array](https://github.com/santhosh-103/leetcode_solved/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/santhosh-103/leetcode_solved/tree/master/0238-product-of-array-except-self) |
+| [0240-search-a-2d-matrix-ii](https://github.com/santhosh-103/leetcode_solved/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/santhosh-103/leetcode_solved/tree/master/0287-find-the-duplicate-number) |
 | [0932-monotonic-array](https://github.com/santhosh-103/leetcode_solved/tree/master/0932-monotonic-array) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/santhosh-103/leetcode_solved/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/santhosh-103/leetcode_solved/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/santhosh-103/leetcode_solved/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/santhosh-103/leetcode_solved/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/santhosh-103/leetcode_solved/tree/master/0287-find-the-duplicate-number) |
 | [1646-kth-missing-positive-number](https://github.com/santhosh-103/leetcode_solved/tree/master/1646-kth-missing-positive-number) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/santhosh-103/leetcode_solved/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/santhosh-103/leetcode_solved/tree/master/0004-median-of-two-sorted-arrays) |
 | [0215-kth-largest-element-in-an-array](https://github.com/santhosh-103/leetcode_solved/tree/master/0215-kth-largest-element-in-an-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/santhosh-103/leetcode_solved/tree/master/0240-search-a-2d-matrix-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -205,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/santhosh-103/leetcode_solved/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/santhosh-103/leetcode_solved/tree/master/0240-search-a-2d-matrix-ii) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/santhosh-103/leetcode_solved/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Counting
 |  |
