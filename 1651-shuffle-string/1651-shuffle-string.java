@@ -1,17 +1,10 @@
 class Solution {
     public String restoreString(String s, int[] indices) {
-        char[] c = s.toCharArray();
-        List<Character> list = new ArrayList<>();
-        for (int i = 0; i < c.length; i++) {
-            list.add(' ');
+        char[] c = new char[s.length()];
+        for(int i=0;i<s.length();i++){
+            c[indices[i]]=s.charAt(i);
         }
-        for (int i = 0; i < c.length; i++) {
-            list.set(indices[i], c[i]);
-        }
-        String ans = "";
-        for (int i = 0; i < list.size(); i++) {
-            ans += list.get(i);
-        }
-        return ans;
+        return new String(c);
+        
     }
 }
