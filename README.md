@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/santhosh-103/leetcode_solved/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/santhosh-103/leetcode_solved/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/santhosh-103/leetcode_solved/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2470-removing-stars-from-a-string](https://github.com/santhosh-103/leetcode_solved/tree/master/2470-removing-stars-from-a-string) |
 | [2825-minimize-string-length](https://github.com/santhosh-103/leetcode_solved/tree/master/2825-minimize-string-length) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/santhosh-103/leetcode_solved/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3312-number-of-changing-keys](https://github.com/santhosh-103/leetcode_solved/tree/master/3312-number-of-changing-keys) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1078-remove-outermost-parentheses](https://github.com/santhosh-103/leetcode_solved/tree/master/1078-remove-outermost-parentheses) |
+| [2470-removing-stars-from-a-string](https://github.com/santhosh-103/leetcode_solved/tree/master/2470-removing-stars-from-a-string) |
 | [3447-clear-digits](https://github.com/santhosh-103/leetcode_solved/tree/master/3447-clear-digits) |
 ## Recursion
 |  |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/santhosh-103/leetcode_solved/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/santhosh-103/leetcode_solved/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/santhosh-103/leetcode_solved/tree/master/2298-count-integers-with-even-digit-sum) |
+| [2470-removing-stars-from-a-string](https://github.com/santhosh-103/leetcode_solved/tree/master/2470-removing-stars-from-a-string) |
 | [2639-separate-the-digits-in-an-array](https://github.com/santhosh-103/leetcode_solved/tree/master/2639-separate-the-digits-in-an-array) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/santhosh-103/leetcode_solved/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3226-minimum-number-game](https://github.com/santhosh-103/leetcode_solved/tree/master/3226-minimum-number-game) |
