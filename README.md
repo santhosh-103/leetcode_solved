@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1580-shuffle-the-array](https://github.com/santhosh-103/leetcode_solved/tree/master/1580-shuffle-the-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/santhosh-103/leetcode_solved/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1646-kth-missing-positive-number](https://github.com/santhosh-103/leetcode_solved/tree/master/1646-kth-missing-positive-number) |
+| [1651-shuffle-string](https://github.com/santhosh-103/leetcode_solved/tree/master/1651-shuffle-string) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/santhosh-103/leetcode_solved/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/santhosh-103/leetcode_solved/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/santhosh-103/leetcode_solved/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/santhosh-103/leetcode_solved/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1078-remove-outermost-parentheses](https://github.com/santhosh-103/leetcode_solved/tree/master/1078-remove-outermost-parentheses) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/santhosh-103/leetcode_solved/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1651-shuffle-string](https://github.com/santhosh-103/leetcode_solved/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/santhosh-103/leetcode_solved/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/santhosh-103/leetcode_solved/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1894-merge-strings-alternately](https://github.com/santhosh-103/leetcode_solved/tree/master/1894-merge-strings-alternately) |
