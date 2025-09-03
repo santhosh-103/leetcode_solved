@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/santhosh-103/leetcode_solved/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/santhosh-103/leetcode_solved/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/santhosh-103/leetcode_solved/tree/master/0240-search-a-2d-matrix-ii) |
+| [0283-move-zeroes](https://github.com/santhosh-103/leetcode_solved/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/santhosh-103/leetcode_solved/tree/master/0287-find-the-duplicate-number) |
 | [0561-array-partition](https://github.com/santhosh-103/leetcode_solved/tree/master/0561-array-partition) |
 | [0932-monotonic-array](https://github.com/santhosh-103/leetcode_solved/tree/master/0932-monotonic-array) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/santhosh-103/leetcode_solved/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0283-move-zeroes](https://github.com/santhosh-103/leetcode_solved/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/santhosh-103/leetcode_solved/tree/master/0287-find-the-duplicate-number) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/santhosh-103/leetcode_solved/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1894-merge-strings-alternately](https://github.com/santhosh-103/leetcode_solved/tree/master/1894-merge-strings-alternately) |
