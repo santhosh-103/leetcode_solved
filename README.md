@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/santhosh-103/leetcode_solved/tree/master/0004-median-of-two-sorted-arrays) |
 | [0041-first-missing-positive](https://github.com/santhosh-103/leetcode_solved/tree/master/0041-first-missing-positive) |
 | [0074-search-a-2d-matrix](https://github.com/santhosh-103/leetcode_solved/tree/master/0074-search-a-2d-matrix) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/santhosh-103/leetcode_solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0215-kth-largest-element-in-an-array](https://github.com/santhosh-103/leetcode_solved/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/santhosh-103/leetcode_solved/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/santhosh-103/leetcode_solved/tree/master/0240-search-a-2d-matrix-ii) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/santhosh-103/leetcode_solved/tree/master/0010-regular-expression-matching) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/santhosh-103/leetcode_solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1086-divisor-game](https://github.com/santhosh-103/leetcode_solved/tree/master/1086-divisor-game) |
 ## Brainteaser
 |  |
