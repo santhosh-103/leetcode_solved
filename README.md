@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/santhosh-103/leetcode_solved/tree/master/0287-find-the-duplicate-number) |
 | [0561-array-partition](https://github.com/santhosh-103/leetcode_solved/tree/master/0561-array-partition) |
 | [0932-monotonic-array](https://github.com/santhosh-103/leetcode_solved/tree/master/0932-monotonic-array) |
+| [1137-height-checker](https://github.com/santhosh-103/leetcode_solved/tree/master/1137-height-checker) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/santhosh-103/leetcode_solved/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/santhosh-103/leetcode_solved/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/santhosh-103/leetcode_solved/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/santhosh-103/leetcode_solved/tree/master/0215-kth-largest-element-in-an-array) |
 | [0561-array-partition](https://github.com/santhosh-103/leetcode_solved/tree/master/0561-array-partition) |
+| [1137-height-checker](https://github.com/santhosh-103/leetcode_solved/tree/master/1137-height-checker) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/santhosh-103/leetcode_solved/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/santhosh-103/leetcode_solved/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/santhosh-103/leetcode_solved/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -292,5 +294,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/santhosh-103/leetcode_solved/tree/master/0561-array-partition) |
+| [1137-height-checker](https://github.com/santhosh-103/leetcode_solved/tree/master/1137-height-checker) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/santhosh-103/leetcode_solved/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 <!---LeetCode Topics End-->
