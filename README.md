@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/santhosh-103/leetcode_solved/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/santhosh-103/leetcode_solved/tree/master/0004-median-of-two-sorted-arrays) |
 | [0041-first-missing-positive](https://github.com/santhosh-103/leetcode_solved/tree/master/0041-first-missing-positive) |
+| [0053-maximum-subarray](https://github.com/santhosh-103/leetcode_solved/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/santhosh-103/leetcode_solved/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/santhosh-103/leetcode_solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0215-kth-largest-element-in-an-array](https://github.com/santhosh-103/leetcode_solved/tree/master/0215-kth-largest-element-in-an-array) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/santhosh-103/leetcode_solved/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/santhosh-103/leetcode_solved/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/santhosh-103/leetcode_solved/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/santhosh-103/leetcode_solved/tree/master/0240-search-a-2d-matrix-ii) |
 ## Bit Manipulation
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/santhosh-103/leetcode_solved/tree/master/0010-regular-expression-matching) |
+| [0053-maximum-subarray](https://github.com/santhosh-103/leetcode_solved/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/santhosh-103/leetcode_solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1086-divisor-game](https://github.com/santhosh-103/leetcode_solved/tree/master/1086-divisor-game) |
 ## Brainteaser
