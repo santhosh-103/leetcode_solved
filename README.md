@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-number-of-arithmetic-triplets](https://github.com/santhosh-103/leetcode_solved/tree/master/2442-number-of-arithmetic-triplets) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/santhosh-103/leetcode_solved/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/santhosh-103/leetcode_solved/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2566-number-of-unequal-triplets-in-array](https://github.com/santhosh-103/leetcode_solved/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/santhosh-103/leetcode_solved/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2639-separate-the-digits-in-an-array](https://github.com/santhosh-103/leetcode_solved/tree/master/2639-separate-the-digits-in-an-array) |
 | [2714-left-and-right-sum-differences](https://github.com/santhosh-103/leetcode_solved/tree/master/2714-left-and-right-sum-differences) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/santhosh-103/leetcode_solved/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2442-number-of-arithmetic-triplets](https://github.com/santhosh-103/leetcode_solved/tree/master/2442-number-of-arithmetic-triplets) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/santhosh-103/leetcode_solved/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [2566-number-of-unequal-triplets-in-array](https://github.com/santhosh-103/leetcode_solved/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2825-minimize-string-length](https://github.com/santhosh-103/leetcode_solved/tree/master/2825-minimize-string-length) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/santhosh-103/leetcode_solved/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/santhosh-103/leetcode_solved/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/santhosh-103/leetcode_solved/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/santhosh-103/leetcode_solved/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/santhosh-103/leetcode_solved/tree/master/2283-sort-even-and-odd-indices-independently) |
+| [2566-number-of-unequal-triplets-in-array](https://github.com/santhosh-103/leetcode_solved/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2836-neither-minimum-nor-maximum](https://github.com/santhosh-103/leetcode_solved/tree/master/2836-neither-minimum-nor-maximum) |
 | [3226-minimum-number-game](https://github.com/santhosh-103/leetcode_solved/tree/master/3226-minimum-number-game) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/santhosh-103/leetcode_solved/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
