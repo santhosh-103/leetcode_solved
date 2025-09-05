@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/santhosh-103/leetcode_solved/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/santhosh-103/leetcode_solved/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/santhosh-103/leetcode_solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/santhosh-103/leetcode_solved/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/santhosh-103/leetcode_solved/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/santhosh-103/leetcode_solved/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/santhosh-103/leetcode_solved/tree/master/0238-product-of-array-except-self) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/santhosh-103/leetcode_solved/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/santhosh-103/leetcode_solved/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/santhosh-103/leetcode_solved/tree/master/0041-first-missing-positive) |
+| [0128-longest-consecutive-sequence](https://github.com/santhosh-103/leetcode_solved/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/santhosh-103/leetcode_solved/tree/master/0169-majority-element) |
 | [0500-keyboard-row](https://github.com/santhosh-103/leetcode_solved/tree/master/0500-keyboard-row) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/santhosh-103/leetcode_solved/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -329,4 +331,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/santhosh-103/leetcode_solved/tree/master/0561-array-partition) |
 | [1137-height-checker](https://github.com/santhosh-103/leetcode_solved/tree/master/1137-height-checker) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/santhosh-103/leetcode_solved/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/santhosh-103/leetcode_solved/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
