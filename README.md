@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/santhosh-103/leetcode_solved/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/santhosh-103/leetcode_solved/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/santhosh-103/leetcode_solved/tree/master/0371-sum-of-two-integers) |
+| [0728-self-dividing-numbers](https://github.com/santhosh-103/leetcode_solved/tree/master/0728-self-dividing-numbers) |
 | [1086-divisor-game](https://github.com/santhosh-103/leetcode_solved/tree/master/1086-divisor-game) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/santhosh-103/leetcode_solved/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/santhosh-103/leetcode_solved/tree/master/1421-find-numbers-with-even-number-of-digits) |
