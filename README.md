@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/santhosh-103/leetcode_solved/tree/master/1448-maximum-69-number) |
 | [1585-the-kth-factor-of-n](https://github.com/santhosh-103/leetcode_solved/tree/master/1585-the-kth-factor-of-n) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/santhosh-103/leetcode_solved/tree/master/1630-count-odd-numbers-in-an-interval-range) |
+| [1806-count-of-matches-in-tournament](https://github.com/santhosh-103/leetcode_solved/tree/master/1806-count-of-matches-in-tournament) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/santhosh-103/leetcode_solved/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/santhosh-103/leetcode_solved/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/santhosh-103/leetcode_solved/tree/master/1950-sign-of-the-product-of-an-array) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/santhosh-103/leetcode_solved/tree/master/0258-add-digits) |
 | [1505-create-target-array-in-the-given-order](https://github.com/santhosh-103/leetcode_solved/tree/master/1505-create-target-array-in-the-given-order) |
+| [1806-count-of-matches-in-tournament](https://github.com/santhosh-103/leetcode_solved/tree/master/1806-count-of-matches-in-tournament) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/santhosh-103/leetcode_solved/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/santhosh-103/leetcode_solved/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/santhosh-103/leetcode_solved/tree/master/2274-keep-multiplying-found-values-by-two) |
