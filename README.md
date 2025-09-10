@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2639-separate-the-digits-in-an-array](https://github.com/santhosh-103/leetcode_solved/tree/master/2639-separate-the-digits-in-an-array) |
 | [2714-left-and-right-sum-differences](https://github.com/santhosh-103/leetcode_solved/tree/master/2714-left-and-right-sum-differences) |
 | [2727-number-of-senior-citizens](https://github.com/santhosh-103/leetcode_solved/tree/master/2727-number-of-senior-citizens) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/santhosh-103/leetcode_solved/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/santhosh-103/leetcode_solved/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2836-neither-minimum-nor-maximum](https://github.com/santhosh-103/leetcode_solved/tree/master/2836-neither-minimum-nor-maximum) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/santhosh-103/leetcode_solved/tree/master/2844-sum-of-squares-of-special-elements) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-number-of-arithmetic-triplets](https://github.com/santhosh-103/leetcode_solved/tree/master/2442-number-of-arithmetic-triplets) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/santhosh-103/leetcode_solved/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/santhosh-103/leetcode_solved/tree/master/2566-number-of-unequal-triplets-in-array) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/santhosh-103/leetcode_solved/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2825-minimize-string-length](https://github.com/santhosh-103/leetcode_solved/tree/master/2825-minimize-string-length) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/santhosh-103/leetcode_solved/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/santhosh-103/leetcode_solved/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/santhosh-103/leetcode_solved/tree/master/0371-sum-of-two-integers) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/santhosh-103/leetcode_solved/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/santhosh-103/leetcode_solved/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/santhosh-103/leetcode_solved/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Stack
 |  |
 | ------- |
