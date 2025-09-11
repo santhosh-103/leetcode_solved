@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2727-number-of-senior-citizens](https://github.com/santhosh-103/leetcode_solved/tree/master/2727-number-of-senior-citizens) |
 | [2825-minimize-string-length](https://github.com/santhosh-103/leetcode_solved/tree/master/2825-minimize-string-length) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/santhosh-103/leetcode_solved/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [2887-sort-vowels-in-a-string](https://github.com/santhosh-103/leetcode_solved/tree/master/2887-sort-vowels-in-a-string) |
 | [3312-number-of-changing-keys](https://github.com/santhosh-103/leetcode_solved/tree/master/3312-number-of-changing-keys) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/santhosh-103/leetcode_solved/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3447-clear-digits](https://github.com/santhosh-103/leetcode_solved/tree/master/3447-clear-digits) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2283-sort-even-and-odd-indices-independently](https://github.com/santhosh-103/leetcode_solved/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/santhosh-103/leetcode_solved/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2836-neither-minimum-nor-maximum](https://github.com/santhosh-103/leetcode_solved/tree/master/2836-neither-minimum-nor-maximum) |
+| [2887-sort-vowels-in-a-string](https://github.com/santhosh-103/leetcode_solved/tree/master/2887-sort-vowels-in-a-string) |
 | [3226-minimum-number-game](https://github.com/santhosh-103/leetcode_solved/tree/master/3226-minimum-number-game) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/santhosh-103/leetcode_solved/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Matrix
