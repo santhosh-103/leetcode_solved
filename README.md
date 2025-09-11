@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/santhosh-103/leetcode_solved/tree/master/0392-is-subsequence) |
 | [0434-number-of-segments-in-a-string](https://github.com/santhosh-103/leetcode_solved/tree/master/0434-number-of-segments-in-a-string) |
 | [0500-keyboard-row](https://github.com/santhosh-103/leetcode_solved/tree/master/0500-keyboard-row) |
+| [0551-student-attendance-record-i](https://github.com/santhosh-103/leetcode_solved/tree/master/0551-student-attendance-record-i) |
 | [0742-to-lower-case](https://github.com/santhosh-103/leetcode_solved/tree/master/0742-to-lower-case) |
 | [0837-most-common-word](https://github.com/santhosh-103/leetcode_solved/tree/master/0837-most-common-word) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/santhosh-103/leetcode_solved/tree/master/0920-uncommon-words-from-two-sentences) |
