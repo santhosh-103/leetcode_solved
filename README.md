@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/santhosh-103/leetcode_solved/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1646-kth-missing-positive-number](https://github.com/santhosh-103/leetcode_solved/tree/master/1646-kth-missing-positive-number) |
 | [1651-shuffle-string](https://github.com/santhosh-103/leetcode_solved/tree/master/1651-shuffle-string) |
+| [1656-count-good-triplets](https://github.com/santhosh-103/leetcode_solved/tree/master/1656-count-good-triplets) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/santhosh-103/leetcode_solved/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/santhosh-103/leetcode_solved/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/santhosh-103/leetcode_solved/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1656-count-good-triplets](https://github.com/santhosh-103/leetcode_solved/tree/master/1656-count-good-triplets) |
 | [2083-three-divisors](https://github.com/santhosh-103/leetcode_solved/tree/master/2083-three-divisors) |
 | [2442-number-of-arithmetic-triplets](https://github.com/santhosh-103/leetcode_solved/tree/master/2442-number-of-arithmetic-triplets) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/santhosh-103/leetcode_solved/tree/master/2844-sum-of-squares-of-special-elements) |
