@@ -285,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1212-sequential-digits](https://github.com/santhosh-103/leetcode_solved/tree/master/1212-sequential-digits) |
 | [1656-count-good-triplets](https://github.com/santhosh-103/leetcode_solved/tree/master/1656-count-good-triplets) |
 | [2083-three-divisors](https://github.com/santhosh-103/leetcode_solved/tree/master/2083-three-divisors) |
 | [2442-number-of-arithmetic-triplets](https://github.com/santhosh-103/leetcode_solved/tree/master/2442-number-of-arithmetic-triplets) |
