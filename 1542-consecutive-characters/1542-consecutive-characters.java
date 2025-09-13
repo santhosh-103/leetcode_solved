@@ -4,8 +4,7 @@ class Solution {
        int max=1;
        int count=1;
        for(int i=1;i<c.length;i++){
-        
-          char ch=c[i];
+         char ch=c[i];
           if(c[i]==c[i-1]) count++;
           else count=1;
           max=Math.max(count,max);
