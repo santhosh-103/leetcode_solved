@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2556-convert-the-temperature](https://github.com/santhosh-103/leetcode_solved/tree/master/2556-convert-the-temperature) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/santhosh-103/leetcode_solved/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [2812-find-the-maximum-achievable-number](https://github.com/santhosh-103/leetcode_solved/tree/master/2812-find-the-maximum-achievable-number) |
+| [2824-check-if-the-number-is-fascinating](https://github.com/santhosh-103/leetcode_solved/tree/master/2824-check-if-the-number-is-fascinating) |
 | [2998-count-symmetric-integers](https://github.com/santhosh-103/leetcode_solved/tree/master/2998-count-symmetric-integers) |
 | [3321-type-of-triangle](https://github.com/santhosh-103/leetcode_solved/tree/master/3321-type-of-triangle) |
 | [3462-vowels-game-in-a-string](https://github.com/santhosh-103/leetcode_solved/tree/master/3462-vowels-game-in-a-string) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/santhosh-103/leetcode_solved/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/santhosh-103/leetcode_solved/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/santhosh-103/leetcode_solved/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2824-check-if-the-number-is-fascinating](https://github.com/santhosh-103/leetcode_solved/tree/master/2824-check-if-the-number-is-fascinating) |
 | [2825-minimize-string-length](https://github.com/santhosh-103/leetcode_solved/tree/master/2825-minimize-string-length) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/santhosh-103/leetcode_solved/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/santhosh-103/leetcode_solved/tree/master/3872-find-most-frequent-vowel-and-consonant) |
