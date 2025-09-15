@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3462-vowels-game-in-a-string](https://github.com/santhosh-103/leetcode_solved/tree/master/3462-vowels-game-in-a-string) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/santhosh-103/leetcode_solved/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/santhosh-103/leetcode_solved/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/santhosh-103/leetcode_solved/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/santhosh-103/leetcode_solved/tree/master/3830-find-closest-person) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/santhosh-103/leetcode_solved/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 ## Array
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3447-clear-digits](https://github.com/santhosh-103/leetcode_solved/tree/master/3447-clear-digits) |
 | [3462-vowels-game-in-a-string](https://github.com/santhosh-103/leetcode_solved/tree/master/3462-vowels-game-in-a-string) |
 | [3636-check-balanced-string](https://github.com/santhosh-103/leetcode_solved/tree/master/3636-check-balanced-string) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/santhosh-103/leetcode_solved/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/santhosh-103/leetcode_solved/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sliding Window
 |  |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3226-minimum-number-game](https://github.com/santhosh-103/leetcode_solved/tree/master/3226-minimum-number-game) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/santhosh-103/leetcode_solved/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3447-clear-digits](https://github.com/santhosh-103/leetcode_solved/tree/master/3447-clear-digits) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/santhosh-103/leetcode_solved/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -340,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/santhosh-103/leetcode_solved/tree/master/0258-add-digits) |
 | [1585-the-kth-factor-of-n](https://github.com/santhosh-103/leetcode_solved/tree/master/1585-the-kth-factor-of-n) |
 | [2083-three-divisors](https://github.com/santhosh-103/leetcode_solved/tree/master/2083-three-divisors) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/santhosh-103/leetcode_solved/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -400,4 +404,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/santhosh-103/leetcode_solved/tree/master/0014-longest-common-prefix) |
+## Combinatorics
+|  |
+| ------- |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/santhosh-103/leetcode_solved/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 <!---LeetCode Topics End-->
