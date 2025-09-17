@@ -6,7 +6,8 @@ class Solution {
             for(int j=0;j<tasks[0].length;j++){
                 sum+=tasks[i][j];
             }
-            min=Math.min(sum,min);
+            if(sum<min) min=sum;
+            
         }
         return min;
     }
