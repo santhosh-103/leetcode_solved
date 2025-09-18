@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2292-counting-words-with-a-given-prefix](https://github.com/santhosh-103/leetcode_solved/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/santhosh-103/leetcode_solved/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2442-number-of-arithmetic-triplets](https://github.com/santhosh-103/leetcode_solved/tree/master/2442-number-of-arithmetic-triplets) |
+| [2519-find-the-original-array-of-prefix-xor](https://github.com/santhosh-103/leetcode_solved/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/santhosh-103/leetcode_solved/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/santhosh-103/leetcode_solved/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2551-apply-operations-to-an-array](https://github.com/santhosh-103/leetcode_solved/tree/master/2551-apply-operations-to-an-array) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/santhosh-103/leetcode_solved/tree/master/0371-sum-of-two-integers) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/santhosh-103/leetcode_solved/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/santhosh-103/leetcode_solved/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2519-find-the-original-array-of-prefix-xor](https://github.com/santhosh-103/leetcode_solved/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/santhosh-103/leetcode_solved/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Stack
 |  |
