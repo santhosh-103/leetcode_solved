@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1950-sign-of-the-product-of-an-array](https://github.com/santhosh-103/leetcode_solved/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2083-three-divisors](https://github.com/santhosh-103/leetcode_solved/tree/master/2083-three-divisors) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/santhosh-103/leetcode_solved/tree/master/2298-count-integers-with-even-digit-sum) |
+| [2481-strictly-palindromic-number](https://github.com/santhosh-103/leetcode_solved/tree/master/2481-strictly-palindromic-number) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/santhosh-103/leetcode_solved/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/santhosh-103/leetcode_solved/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2556-convert-the-temperature](https://github.com/santhosh-103/leetcode_solved/tree/master/2556-convert-the-temperature) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/santhosh-103/leetcode_solved/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/santhosh-103/leetcode_solved/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2442-number-of-arithmetic-triplets](https://github.com/santhosh-103/leetcode_solved/tree/master/2442-number-of-arithmetic-triplets) |
+| [2481-strictly-palindromic-number](https://github.com/santhosh-103/leetcode_solved/tree/master/2481-strictly-palindromic-number) |
 | [2551-apply-operations-to-an-array](https://github.com/santhosh-103/leetcode_solved/tree/master/2551-apply-operations-to-an-array) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/santhosh-103/leetcode_solved/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Simulation
@@ -390,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1086-divisor-game](https://github.com/santhosh-103/leetcode_solved/tree/master/1086-divisor-game) |
+| [2481-strictly-palindromic-number](https://github.com/santhosh-103/leetcode_solved/tree/master/2481-strictly-palindromic-number) |
 | [3462-vowels-game-in-a-string](https://github.com/santhosh-103/leetcode_solved/tree/master/3462-vowels-game-in-a-string) |
 ## Game Theory
 |  |
