@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1660-thousand-separator](https://github.com/santhosh-103/leetcode_solved/tree/master/1660-thousand-separator) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/santhosh-103/leetcode_solved/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/santhosh-103/leetcode_solved/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/santhosh-103/leetcode_solved/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/santhosh-103/leetcode_solved/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1894-merge-strings-alternately](https://github.com/santhosh-103/leetcode_solved/tree/master/1894-merge-strings-alternately) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/santhosh-103/leetcode_solved/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/santhosh-103/leetcode_solved/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/santhosh-103/leetcode_solved/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1448-maximum-69-number](https://github.com/santhosh-103/leetcode_solved/tree/master/1448-maximum-69-number) |
+| [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/santhosh-103/leetcode_solved/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1917-maximum-average-pass-ratio](https://github.com/santhosh-103/leetcode_solved/tree/master/1917-maximum-average-pass-ratio) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/santhosh-103/leetcode_solved/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/santhosh-103/leetcode_solved/tree/master/1988-minimize-maximum-pair-sum-in-array) |
