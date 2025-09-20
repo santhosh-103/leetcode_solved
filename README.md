@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/santhosh-103/leetcode_solved/tree/master/0009-palindrome-number) |
+| [0096-unique-binary-search-trees](https://github.com/santhosh-103/leetcode_solved/tree/master/0096-unique-binary-search-trees) |
 | [0258-add-digits](https://github.com/santhosh-103/leetcode_solved/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/santhosh-103/leetcode_solved/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/santhosh-103/leetcode_solved/tree/master/0342-power-of-four) |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/santhosh-103/leetcode_solved/tree/master/0010-regular-expression-matching) |
 | [0053-maximum-subarray](https://github.com/santhosh-103/leetcode_solved/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/santhosh-103/leetcode_solved/tree/master/0055-jump-game) |
+| [0096-unique-binary-search-trees](https://github.com/santhosh-103/leetcode_solved/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/santhosh-103/leetcode_solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/santhosh-103/leetcode_solved/tree/master/0392-is-subsequence) |
 | [1086-divisor-game](https://github.com/santhosh-103/leetcode_solved/tree/master/1086-divisor-game) |
@@ -425,4 +427,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/santhosh-103/leetcode_solved/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+## Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/santhosh-103/leetcode_solved/tree/master/0096-unique-binary-search-trees) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/santhosh-103/leetcode_solved/tree/master/0096-unique-binary-search-trees) |
+## Binary Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/santhosh-103/leetcode_solved/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
