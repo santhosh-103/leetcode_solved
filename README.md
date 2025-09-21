@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/santhosh-103/leetcode_solved/tree/master/0009-palindrome-number) |
 | [0096-unique-binary-search-trees](https://github.com/santhosh-103/leetcode_solved/tree/master/0096-unique-binary-search-trees) |
 | [0258-add-digits](https://github.com/santhosh-103/leetcode_solved/tree/master/0258-add-digits) |
+| [0319-bulb-switcher](https://github.com/santhosh-103/leetcode_solved/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/santhosh-103/leetcode_solved/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/santhosh-103/leetcode_solved/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/santhosh-103/leetcode_solved/tree/master/0371-sum-of-two-integers) |
@@ -393,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [0319-bulb-switcher](https://github.com/santhosh-103/leetcode_solved/tree/master/0319-bulb-switcher) |
 | [1086-divisor-game](https://github.com/santhosh-103/leetcode_solved/tree/master/1086-divisor-game) |
 | [2481-strictly-palindromic-number](https://github.com/santhosh-103/leetcode_solved/tree/master/2481-strictly-palindromic-number) |
 | [3462-vowels-game-in-a-string](https://github.com/santhosh-103/leetcode_solved/tree/master/3462-vowels-game-in-a-string) |
