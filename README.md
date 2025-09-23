@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/santhosh-103/leetcode_solved/tree/master/0287-find-the-duplicate-number) |
 | [0500-keyboard-row](https://github.com/santhosh-103/leetcode_solved/tree/master/0500-keyboard-row) |
 | [0561-array-partition](https://github.com/santhosh-103/leetcode_solved/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/santhosh-103/leetcode_solved/tree/master/0605-can-place-flowers) |
 | [0837-most-common-word](https://github.com/santhosh-103/leetcode_solved/tree/master/0837-most-common-word) |
 | [0932-monotonic-array](https://github.com/santhosh-103/leetcode_solved/tree/master/0932-monotonic-array) |
 | [1137-height-checker](https://github.com/santhosh-103/leetcode_solved/tree/master/1137-height-checker) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/santhosh-103/leetcode_solved/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/santhosh-103/leetcode_solved/tree/master/0055-jump-game) |
 | [0561-array-partition](https://github.com/santhosh-103/leetcode_solved/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/santhosh-103/leetcode_solved/tree/master/0605-can-place-flowers) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/santhosh-103/leetcode_solved/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/santhosh-103/leetcode_solved/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1448-maximum-69-number](https://github.com/santhosh-103/leetcode_solved/tree/master/1448-maximum-69-number) |
