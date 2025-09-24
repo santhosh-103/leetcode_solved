@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2341-count-prefixes-of-a-given-string](https://github.com/santhosh-103/leetcode_solved/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/santhosh-103/leetcode_solved/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2365-percentage-of-letter-in-string](https://github.com/santhosh-103/leetcode_solved/tree/master/2365-percentage-of-letter-in-string) |
+| [2401-count-asterisks](https://github.com/santhosh-103/leetcode_solved/tree/master/2401-count-asterisks) |
 | [2470-removing-stars-from-a-string](https://github.com/santhosh-103/leetcode_solved/tree/master/2470-removing-stars-from-a-string) |
 | [2727-number-of-senior-citizens](https://github.com/santhosh-103/leetcode_solved/tree/master/2727-number-of-senior-citizens) |
 | [2825-minimize-string-length](https://github.com/santhosh-103/leetcode_solved/tree/master/2825-minimize-string-length) |
