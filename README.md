@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/santhosh-103/leetcode_solved/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/santhosh-103/leetcode_solved/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/santhosh-103/leetcode_solved/tree/master/0074-search-a-2d-matrix) |
+| [0120-triangle](https://github.com/santhosh-103/leetcode_solved/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/santhosh-103/leetcode_solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/santhosh-103/leetcode_solved/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/santhosh-103/leetcode_solved/tree/master/0169-majority-element) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/santhosh-103/leetcode_solved/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/santhosh-103/leetcode_solved/tree/master/0055-jump-game) |
 | [0096-unique-binary-search-trees](https://github.com/santhosh-103/leetcode_solved/tree/master/0096-unique-binary-search-trees) |
+| [0120-triangle](https://github.com/santhosh-103/leetcode_solved/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/santhosh-103/leetcode_solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/santhosh-103/leetcode_solved/tree/master/0392-is-subsequence) |
 | [0909-stone-game](https://github.com/santhosh-103/leetcode_solved/tree/master/0909-stone-game) |
