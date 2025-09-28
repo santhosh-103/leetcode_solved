@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0837-most-common-word](https://github.com/santhosh-103/leetcode_solved/tree/master/0837-most-common-word) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/santhosh-103/leetcode_solved/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1078-remove-outermost-parentheses](https://github.com/santhosh-103/leetcode_solved/tree/master/1078-remove-outermost-parentheses) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/santhosh-103/leetcode_solved/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/santhosh-103/leetcode_solved/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1542-consecutive-characters](https://github.com/santhosh-103/leetcode_solved/tree/master/1542-consecutive-characters) |
 | [1651-shuffle-string](https://github.com/santhosh-103/leetcode_solved/tree/master/1651-shuffle-string) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/santhosh-103/leetcode_solved/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1078-remove-outermost-parentheses](https://github.com/santhosh-103/leetcode_solved/tree/master/1078-remove-outermost-parentheses) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/santhosh-103/leetcode_solved/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2128-reverse-prefix-of-word](https://github.com/santhosh-103/leetcode_solved/tree/master/2128-reverse-prefix-of-word) |
 | [2470-removing-stars-from-a-string](https://github.com/santhosh-103/leetcode_solved/tree/master/2470-removing-stars-from-a-string) |
 | [3447-clear-digits](https://github.com/santhosh-103/leetcode_solved/tree/master/3447-clear-digits) |
