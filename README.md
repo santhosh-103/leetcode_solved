@@ -469,4 +469,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/santhosh-103/leetcode_solved/tree/master/0096-unique-binary-search-trees) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/santhosh-103/leetcode_solved/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
