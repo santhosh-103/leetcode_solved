@@ -4,15 +4,15 @@ class Solution {
         char[] c=brokenLetters.toCharArray();
         int ans=0;
         for(int i=0;i<arr.length;i++){
-            boolean e=true;
+            int count=0;
             for(int j=0;j<c.length;j++){
                 char ch=c[j];
                 if(arr[i].contains(String.valueOf(ch))) {
-                    e=false;
+                    count+=1;
                     break;
                 }
             }
-            if(e) ans+=1;
+            if(count!=1) ans+=1;
         }
         return ans;
     }
