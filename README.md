@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-check-if-the-number-is-fascinating](https://github.com/santhosh-103/leetcode_solved/tree/master/2824-check-if-the-number-is-fascinating) |
 | [2998-count-symmetric-integers](https://github.com/santhosh-103/leetcode_solved/tree/master/2998-count-symmetric-integers) |
 | [3321-type-of-triangle](https://github.com/santhosh-103/leetcode_solved/tree/master/3321-type-of-triangle) |
+| [3336-water-bottles-ii](https://github.com/santhosh-103/leetcode_solved/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/santhosh-103/leetcode_solved/tree/master/3462-vowels-game-in-a-string) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/santhosh-103/leetcode_solved/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/santhosh-103/leetcode_solved/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2639-separate-the-digits-in-an-array](https://github.com/santhosh-103/leetcode_solved/tree/master/2639-separate-the-digits-in-an-array) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/santhosh-103/leetcode_solved/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3226-minimum-number-game](https://github.com/santhosh-103/leetcode_solved/tree/master/3226-minimum-number-game) |
+| [3336-water-bottles-ii](https://github.com/santhosh-103/leetcode_solved/tree/master/3336-water-bottles-ii) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/santhosh-103/leetcode_solved/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3447-clear-digits](https://github.com/santhosh-103/leetcode_solved/tree/master/3447-clear-digits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/santhosh-103/leetcode_solved/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
