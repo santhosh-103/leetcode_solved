@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/santhosh-103/leetcode_solved/tree/master/0500-keyboard-row) |
 | [0561-array-partition](https://github.com/santhosh-103/leetcode_solved/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/santhosh-103/leetcode_solved/tree/master/0605-can-place-flowers) |
+| [0682-baseball-game](https://github.com/santhosh-103/leetcode_solved/tree/master/0682-baseball-game) |
 | [0837-most-common-word](https://github.com/santhosh-103/leetcode_solved/tree/master/0837-most-common-word) |
 | [0909-stone-game](https://github.com/santhosh-103/leetcode_solved/tree/master/0909-stone-game) |
 | [0932-monotonic-array](https://github.com/santhosh-103/leetcode_solved/tree/master/0932-monotonic-array) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/santhosh-103/leetcode_solved/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0682-baseball-game](https://github.com/santhosh-103/leetcode_solved/tree/master/0682-baseball-game) |
 | [1078-remove-outermost-parentheses](https://github.com/santhosh-103/leetcode_solved/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/santhosh-103/leetcode_solved/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2128-reverse-prefix-of-word](https://github.com/santhosh-103/leetcode_solved/tree/master/2128-reverse-prefix-of-word) |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/santhosh-103/leetcode_solved/tree/master/0258-add-digits) |
+| [0682-baseball-game](https://github.com/santhosh-103/leetcode_solved/tree/master/0682-baseball-game) |
 | [1505-create-target-array-in-the-given-order](https://github.com/santhosh-103/leetcode_solved/tree/master/1505-create-target-array-in-the-given-order) |
 | [1806-count-of-matches-in-tournament](https://github.com/santhosh-103/leetcode_solved/tree/master/1806-count-of-matches-in-tournament) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/santhosh-103/leetcode_solved/tree/master/2132-convert-1d-array-into-2d-array) |
