@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/santhosh-103/leetcode_solved/tree/master/1894-merge-strings-alternately) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/santhosh-103/leetcode_solved/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1944-truncate-sentence](https://github.com/santhosh-103/leetcode_solved/tree/master/1944-truncate-sentence) |
+| [1999-longer-contiguous-segments-of-ones-than-zeros](https://github.com/santhosh-103/leetcode_solved/tree/master/1999-longer-contiguous-segments-of-ones-than-zeros) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/santhosh-103/leetcode_solved/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/santhosh-103/leetcode_solved/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2128-reverse-prefix-of-word](https://github.com/santhosh-103/leetcode_solved/tree/master/2128-reverse-prefix-of-word) |
