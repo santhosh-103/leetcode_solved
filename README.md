@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/santhosh-103/leetcode_solved/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/santhosh-103/leetcode_solved/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/santhosh-103/leetcode_solved/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2159-two-out-of-three](https://github.com/santhosh-103/leetcode_solved/tree/master/2159-two-out-of-three) |
 | [2181-smallest-index-with-equal-value](https://github.com/santhosh-103/leetcode_solved/tree/master/2181-smallest-index-with-equal-value) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/santhosh-103/leetcode_solved/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/santhosh-103/leetcode_solved/tree/master/2232-adding-spaces-to-a-string) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/santhosh-103/leetcode_solved/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/santhosh-103/leetcode_solved/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/santhosh-103/leetcode_solved/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2159-two-out-of-three](https://github.com/santhosh-103/leetcode_solved/tree/master/2159-two-out-of-three) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/santhosh-103/leetcode_solved/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2442-number-of-arithmetic-triplets](https://github.com/santhosh-103/leetcode_solved/tree/master/2442-number-of-arithmetic-triplets) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/santhosh-103/leetcode_solved/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/santhosh-103/leetcode_solved/tree/master/0371-sum-of-two-integers) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/santhosh-103/leetcode_solved/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/santhosh-103/leetcode_solved/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2159-two-out-of-three](https://github.com/santhosh-103/leetcode_solved/tree/master/2159-two-out-of-three) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/santhosh-103/leetcode_solved/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/santhosh-103/leetcode_solved/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Stack
