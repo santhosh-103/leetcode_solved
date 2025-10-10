@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/santhosh-103/leetcode_solved/tree/master/1448-maximum-69-number) |
 | [1585-the-kth-factor-of-n](https://github.com/santhosh-103/leetcode_solved/tree/master/1585-the-kth-factor-of-n) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/santhosh-103/leetcode_solved/tree/master/1630-count-odd-numbers-in-an-interval-range) |
+| [1642-water-bottles](https://github.com/santhosh-103/leetcode_solved/tree/master/1642-water-bottles) |
 | [1806-count-of-matches-in-tournament](https://github.com/santhosh-103/leetcode_solved/tree/master/1806-count-of-matches-in-tournament) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/santhosh-103/leetcode_solved/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/santhosh-103/leetcode_solved/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/santhosh-103/leetcode_solved/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/santhosh-103/leetcode_solved/tree/master/0682-baseball-game) |
 | [1505-create-target-array-in-the-given-order](https://github.com/santhosh-103/leetcode_solved/tree/master/1505-create-target-array-in-the-given-order) |
+| [1642-water-bottles](https://github.com/santhosh-103/leetcode_solved/tree/master/1642-water-bottles) |
 | [1806-count-of-matches-in-tournament](https://github.com/santhosh-103/leetcode_solved/tree/master/1806-count-of-matches-in-tournament) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/santhosh-103/leetcode_solved/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/santhosh-103/leetcode_solved/tree/master/2232-adding-spaces-to-a-string) |
