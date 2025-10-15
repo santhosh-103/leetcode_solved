@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/santhosh-103/leetcode_solved/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/santhosh-103/leetcode_solved/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3790-fruits-into-baskets-ii](https://github.com/santhosh-103/leetcode_solved/tree/master/3790-fruits-into-baskets-ii) |
+| [4008-restore-finishing-order](https://github.com/santhosh-103/leetcode_solved/tree/master/4008-restore-finishing-order) |
 ## Hash Table
 |  |
 | ------- |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3242-count-elements-with-maximum-frequency](https://github.com/santhosh-103/leetcode_solved/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3541-report-spam-message](https://github.com/santhosh-103/leetcode_solved/tree/master/3541-report-spam-message) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/santhosh-103/leetcode_solved/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [4008-restore-finishing-order](https://github.com/santhosh-103/leetcode_solved/tree/master/4008-restore-finishing-order) |
 ## String
 |  |
 | ------- |
