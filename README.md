@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2847-find-maximum-number-of-string-pairs](https://github.com/santhosh-103/leetcode_solved/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/santhosh-103/leetcode_solved/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3541-report-spam-message](https://github.com/santhosh-103/leetcode_solved/tree/master/3541-report-spam-message) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/santhosh-103/leetcode_solved/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/santhosh-103/leetcode_solved/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [4008-restore-finishing-order](https://github.com/santhosh-103/leetcode_solved/tree/master/4008-restore-finishing-order) |
 ## String
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3462-vowels-game-in-a-string](https://github.com/santhosh-103/leetcode_solved/tree/master/3462-vowels-game-in-a-string) |
 | [3541-report-spam-message](https://github.com/santhosh-103/leetcode_solved/tree/master/3541-report-spam-message) |
 | [3636-check-balanced-string](https://github.com/santhosh-103/leetcode_solved/tree/master/3636-check-balanced-string) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/santhosh-103/leetcode_solved/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/santhosh-103/leetcode_solved/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/santhosh-103/leetcode_solved/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sliding Window
@@ -410,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/santhosh-103/leetcode_solved/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/santhosh-103/leetcode_solved/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/santhosh-103/leetcode_solved/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/santhosh-103/leetcode_solved/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/santhosh-103/leetcode_solved/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Number Theory
 |  |
