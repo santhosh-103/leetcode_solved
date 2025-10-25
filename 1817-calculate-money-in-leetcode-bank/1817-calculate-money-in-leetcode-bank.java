@@ -1,18 +1,20 @@
 class Solution {
     public int totalMoney(int n) {
-        int ans=0;
-        int count=0;
-        int a=1;
+        int count=1;
         int c=1;
-        while(count<n){
-            ans+=a;
-            a++;
-            count++;
+        int cc=1;
+        int ans=0;
+        while(count<=n){
+            ans+=c;
+            c++;
+           
             if(count%7==0){
-               c++;
-               a=c;
-               
+                cc++;
+                c=cc;
+                
+
             }
+             count++;
         }
         return ans;
     }
