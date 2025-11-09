@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/santhosh-103/leetcode_solved/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/santhosh-103/leetcode_solved/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2083-three-divisors](https://github.com/santhosh-103/leetcode_solved/tree/master/2083-three-divisors) |
+| [2288-count-operations-to-obtain-zero](https://github.com/santhosh-103/leetcode_solved/tree/master/2288-count-operations-to-obtain-zero) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/santhosh-103/leetcode_solved/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2481-strictly-palindromic-number](https://github.com/santhosh-103/leetcode_solved/tree/master/2481-strictly-palindromic-number) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/santhosh-103/leetcode_solved/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/santhosh-103/leetcode_solved/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/santhosh-103/leetcode_solved/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/santhosh-103/leetcode_solved/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2288-count-operations-to-obtain-zero](https://github.com/santhosh-103/leetcode_solved/tree/master/2288-count-operations-to-obtain-zero) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/santhosh-103/leetcode_solved/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2470-removing-stars-from-a-string](https://github.com/santhosh-103/leetcode_solved/tree/master/2470-removing-stars-from-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/santhosh-103/leetcode_solved/tree/master/2551-apply-operations-to-an-array) |
