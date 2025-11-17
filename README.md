@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/santhosh-103/leetcode_solved/tree/master/0500-keyboard-row) |
 | [0561-array-partition](https://github.com/santhosh-103/leetcode_solved/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/santhosh-103/leetcode_solved/tree/master/0605-can-place-flowers) |
+| [0611-valid-triangle-number](https://github.com/santhosh-103/leetcode_solved/tree/master/0611-valid-triangle-number) |
 | [0682-baseball-game](https://github.com/santhosh-103/leetcode_solved/tree/master/0682-baseball-game) |
 | [0837-most-common-word](https://github.com/santhosh-103/leetcode_solved/tree/master/0837-most-common-word) |
 | [0909-stone-game](https://github.com/santhosh-103/leetcode_solved/tree/master/0909-stone-game) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/santhosh-103/leetcode_solved/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/santhosh-103/leetcode_solved/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/santhosh-103/leetcode_solved/tree/master/0287-find-the-duplicate-number) |
+| [0611-valid-triangle-number](https://github.com/santhosh-103/leetcode_solved/tree/master/0611-valid-triangle-number) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/santhosh-103/leetcode_solved/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/santhosh-103/leetcode_solved/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/santhosh-103/leetcode_solved/tree/master/1646-kth-missing-positive-number) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/santhosh-103/leetcode_solved/tree/master/0055-jump-game) |
 | [0561-array-partition](https://github.com/santhosh-103/leetcode_solved/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/santhosh-103/leetcode_solved/tree/master/0605-can-place-flowers) |
+| [0611-valid-triangle-number](https://github.com/santhosh-103/leetcode_solved/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/santhosh-103/leetcode_solved/tree/master/1018-largest-perimeter-triangle) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/santhosh-103/leetcode_solved/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/santhosh-103/leetcode_solved/tree/master/1341-split-a-string-in-balanced-strings) |
@@ -327,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/santhosh-103/leetcode_solved/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/santhosh-103/leetcode_solved/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/santhosh-103/leetcode_solved/tree/master/0392-is-subsequence) |
+| [0611-valid-triangle-number](https://github.com/santhosh-103/leetcode_solved/tree/master/0611-valid-triangle-number) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/santhosh-103/leetcode_solved/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1894-merge-strings-alternately](https://github.com/santhosh-103/leetcode_solved/tree/master/1894-merge-strings-alternately) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/santhosh-103/leetcode_solved/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -379,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/santhosh-103/leetcode_solved/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/santhosh-103/leetcode_solved/tree/master/0215-kth-largest-element-in-an-array) |
 | [0561-array-partition](https://github.com/santhosh-103/leetcode_solved/tree/master/0561-array-partition) |
+| [0611-valid-triangle-number](https://github.com/santhosh-103/leetcode_solved/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/santhosh-103/leetcode_solved/tree/master/1018-largest-perimeter-triangle) |
 | [1137-height-checker](https://github.com/santhosh-103/leetcode_solved/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/santhosh-103/leetcode_solved/tree/master/1217-relative-sort-array) |
